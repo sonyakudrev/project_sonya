@@ -22,4 +22,4 @@
 - **Статус:** открыта к предложениям на позицию аналитика данных / data analyst
 - **Telegram:** [@sonya_kudrev](https://t.me/sonya_kudrev)
 - **Email:** [sonya.kudrev@gmail.com](mailto:sonya.kudrev@gmail.com)
-- **Резюме:** [https://hh.ru/resume/664ff900ff0faecf200039ed1f70396a495a58]
+- **Резюме:** https://hh.ru/resume/664ff900ff0faecf200039ed1f70396a495a58
